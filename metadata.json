@@ -1,0 +1,8 @@
+{
+  "name": "Fashion Coach Final ",
+  "description": "A premium editorial marketplace connecting users with verified NIFT & Pearl stylists for 1:1 sessions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
